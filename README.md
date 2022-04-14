@@ -2,12 +2,12 @@
 
 ## Environment Setup
 - Install [nvm](https://github.com/coreybutler/nvm-windows/releases) (Node Version Manager for Windows)
-- Using nvm, install node version: 10.23.2 and make current (you'll need to be running cmd under admin creds to do this)
+- Using nvm, install node version 10.23.2 and make current (you'll need to be running cmd under admin creds to do this)
 ``` shell
 nvm install 10.23.2
 nvm 10.23.2
 ```
-- Run the following npm command install the required packages at specific versions (gulp, yo, and pnp spfx generator):
+- Run the following npm command to install the required packages at specific versions (`gulp`, `yo`, and `pnp spfx generator`):
 ```shell
 npm install -g gulp@3.9.1 yo@3.1.0 @pnp/generator-spfx@1.10.1
 ```
