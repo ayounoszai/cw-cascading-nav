@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.11.0",
+    "libraryName": "cw-cascading-nav",
+    "libraryId": "da97236e-1f3a-49d8-ae51-5f393c6252ae",
+    "environment": "onprem19",
+    "packageManager": "npm",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "componentType": "webpart"
+  }
+}

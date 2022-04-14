@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cw-cascading-nav-client-side-solution",
+    "id": "da97236e-1f3a-49d8-ae51-5f393c6252ae",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/cw-cascading-nav.sppkg"
+  }
+}
